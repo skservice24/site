@@ -1,4 +1,4 @@
-<?
+<?/*
 $aMenuLinks = Array(
     Array(
 		"О компании", 
@@ -51,4 +51,4 @@ $aMenuLinks = Array(
 	),
 
 );
-?>
+*/?>
